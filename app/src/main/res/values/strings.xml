@@ -3,12 +3,13 @@
     <string-array name="count_types">
         <item>Sentences</item>
         <item>Words</item>
-        <item>Characters</item>
+        <item>Punctuation</item>
         <item>Numbers</item>
     </string-array>
     <string name="edit_text_hint">Type here...</string>
     <string name="app_name">Manual Word Counter</string>
     <string name="calculate">Calculate</string>
-    <string name="result_placeholder">Result will be shown here"</string>
+    <string name="result_placeholder">Result will be shown here</string>
+    <string name="error_empty_text">Please enter text before calculating</string>
 </resources>
 
