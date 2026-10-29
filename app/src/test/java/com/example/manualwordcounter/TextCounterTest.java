@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class ExampleUnitTest {
+public class TextCounterTest {
 
     @Test
     public void countWords_twoWords_returnsTwo() {
